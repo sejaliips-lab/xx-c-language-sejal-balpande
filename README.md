@@ -1,2 +1,10 @@
 # xx-c-language-sejal-balpande
-hi
+LAB 1
+HELLO WORLD PROGRAM 
+#include <stdio.h>
+int main(){
+printf ("HELLO WORLD");
+return 0;
+}
+
+}
