@@ -8,6 +8,7 @@ int main () {
     int OR =a|b;
     int XOR =a^b;
     int LEFTSHIFT =a<<b;
+    printf ("my name is sejal balpande\n")
     printf("the and gate  result of %d &%d is : %d\n ",a,b,AND);
     printf("the or gate result of %d &%d is : %d\n ",a,b,OR);
     printf("the xor gate result of %d &%d is : %d\n ",a,b,XOR);
