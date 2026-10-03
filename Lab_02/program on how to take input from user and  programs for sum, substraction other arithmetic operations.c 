@@ -3,6 +3,7 @@
   #include <stdio.h>
    int main(){
    int a,b ;
+   printf ("my name is sejal balpande \n ")
    printf ("enter a= \n");
    scanf ("%d",&a);
    printf ("enter b= \n");
