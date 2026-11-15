@@ -4,7 +4,7 @@ int main()
 {
     int n, num, i, flag, count = 0;
 
-    printf("my name is yugal balpande ");
+    printf("my name is sejal balpande ");
     printf("Enter n: ");
     scanf("%d", &n);
 
