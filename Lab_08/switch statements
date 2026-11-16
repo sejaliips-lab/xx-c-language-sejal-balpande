@@ -4,7 +4,7 @@ int main() {
     char op;
     int a, b;
 
-    printf("my name is sejal balpande ");
+    printf("my name is sejal balpande\n ");
     printf("choose Operator  (+, -, *, /): ");
     scanf(" %c", &op);
 
