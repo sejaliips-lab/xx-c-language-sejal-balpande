@@ -6,7 +6,7 @@ int main()
     long long a = 0, b = 1, c;
     long long sum = 0;
 
-    printf("my name is sejal balpande ");
+    printf("my name is sejal balpande \n");
     printf("Enter number of terms: ");
     scanf("%d", &n);
 
