@@ -5,10 +5,10 @@ int main() {
     int a, b;
 
     printf("my name is sejal balpande ");
-    printf("Operator dalo (+, -, *, /): ");
+    printf("choose Operator  (+, -, *, /): ");
     scanf(" %c", &op);
 
-    printf("Do numbers dalo: ");
+    printf("enter two numbers: ");
     scanf("%d %d", &a, &b);
 
     switch (op) {
@@ -25,7 +25,7 @@ int main() {
             printf("Div = %d", a / b);
             break;
         default:
-            printf("Galat operator");
+            printf("wrong operator");
     }
 
     return 0;
