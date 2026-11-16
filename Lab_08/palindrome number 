@@ -5,7 +5,7 @@ int main()
     int n, original, digit;
     long long reverse = 0;
 
-    printf("my name is sejal balpande ");
+    printf("my name is sejal balpande \n");
     printf("Enter a number: ");
     scanf("%d", &n);
 
