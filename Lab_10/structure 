@@ -17,7 +17,7 @@ int main()
 
     int i;
 
-   printf("my name is sejal balpande");
+   printf("my name is sejal balpande\n");
 
     for(i = 0; i < 3; i++)
     {
